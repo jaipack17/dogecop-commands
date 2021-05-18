@@ -27,7 +27,7 @@ Prefix can be Customized
 
 ## Commands - `economy`
 
-`+wallet` - Your Wallet
+`+wallet` - Your Wallet<br/>
 `+rank` - Your Rank as a Dogehouse Cop
 
 ...Under Development
