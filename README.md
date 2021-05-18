@@ -1,4 +1,4 @@
-# DogeCop Command List - v0.0.3
+# DogeCop Command List - v0.0.4
 
 Command list for dogehouse. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
 
@@ -28,10 +28,11 @@ Prefix can be Customized
 ## Commands - `economy`
 
 `+wallet` - Your Wallet<br/>
-`+rank` - Your Rank as a Dogehouse Cop
-`+daily` - Daily reward of DogeCoins
-`+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! (Coming Soon)
-`+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!
-
+`+rank` - Your Rank as a Dogehouse Cop<br/>
+`+daily` - Daily reward of DogeCoins<br/>
+`+inventory` - Your Inventory (Coming Soon)<br/>
+`+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! (Coming Soon)<br/>
+`+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!<br/>
+<br/>
 ...Under Development
 
