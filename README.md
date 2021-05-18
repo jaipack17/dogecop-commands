@@ -14,11 +14,11 @@ Prefix can be Customized
 
 ## Commands - `misc`
 
-`-roomID` - Current Room ID
-`-people` - Membercount of the Current Room
-`-ownerID` - ID of the current Room Owner
-`-invite` - Invite Link of the current Room
-`-roomname` - Name of the Room
+`-roomID` - Current Room ID <br/>
+`-people` - Membercount of the Current Room<br/>
+`-ownerID` - ID of the current Room Owner<br/>
+`-invite` - Invite Link of the current Room<br/>
+`-roomname` - Name of the Room<br/>
 
 ## Commands - `config`
 
