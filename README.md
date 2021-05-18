@@ -19,6 +19,7 @@ Prefix can be Customized
 `+ownerID` - ID of the current Room Owner<br/>
 `+invite` - Invite Link of the current Room<br/>
 `+roomname` - Name of the Room<br/>
+`+myid` - Your User ID
 
 ## Commands - `config`
 
