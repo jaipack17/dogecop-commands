@@ -1,4 +1,4 @@
-# DogeCop Command List - v0.0.4
+# DogeCop Command List - v0.0.5
 
 Command list for dogehouse. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
 
@@ -23,6 +23,7 @@ Prefix can be Customized
 
 ## Commands - `config`
 
+`+join <roomID>` - Make the bot join your room!
 `+prefix <new prefix>` - Change bot prefix for the current Room. <br />
 `+setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room. (Coming Soon) (Set to Default)
 
