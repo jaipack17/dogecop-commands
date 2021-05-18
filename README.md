@@ -8,9 +8,17 @@ Command list for dogehouse. All commands are to be used in **Room Chat**. Be sur
 
 Prefix can be Customized
 
+## Commands - `help`
+
+`-help`
+
 ## Commands - `misc`
 
-`-roominfo` - Information of the current Room.
+`-roomID` - Current Room ID
+`-people` - Membercount of the Current Room
+`-ownerID` - ID of the current Room Owner
+`-invite` - Invite Link of the current Room
+`-roomname` - Name of the Room
 
 ## Commands - `config`
 
