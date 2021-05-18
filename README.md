@@ -14,7 +14,7 @@ Prefix can be Customized
 
 ## Commands - `config`
 
-`-prefix <new prefix>` - Change bot prefix for the current Room.
+`-prefix <new prefix>` - Change bot prefix for the current Room. <br />
 `-setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room.
 
 
