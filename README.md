@@ -29,6 +29,9 @@ Prefix can be Customized
 
 `+wallet` - Your Wallet<br/>
 `+rank` - Your Rank as a Dogehouse Cop
+`+daily` - Daily reward of DogeCoins
+`+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! (Coming Soon)
+`+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!
 
 ...Under Development
 
