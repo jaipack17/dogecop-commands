@@ -4,26 +4,26 @@ Command list for dogehouse. All commands are to be used in **Room Chat**. Be sur
 
 ![ReadMeImage](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0e/0e0fe01692ebc7c4fcdef9750072c8974b2bf7a8_full.jpg) 
 
-### Default Prefix: `-` 
+### Default Prefix: `+` 
 
 Prefix can be Customized
 
 ## Commands - `help`
 
-`-help`
+`+help`
 
 ## Commands - `misc`
 
-`-roomID` - Current Room ID <br/>
-`-people` - Membercount of the Current Room<br/>
-`-ownerID` - ID of the current Room Owner<br/>
-`-invite` - Invite Link of the current Room<br/>
-`-roomname` - Name of the Room<br/>
+`+roomID` - Current Room ID <br/>
+`+people` - Membercount of the Current Room<br/>
+`+ownerID` - ID of the current Room Owner<br/>
+`+invite` - Invite Link of the current Room<br/>
+`+roomname` - Name of the Room<br/>
 
 ## Commands - `config`
 
-`-prefix <new prefix>` - Change bot prefix for the current Room. <br />
-`-setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room.
+`+prefix <new prefix>` - Change bot prefix for the current Room. <br />
+`+setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room.
 
 
 
