@@ -25,5 +25,7 @@ Prefix can be Customized
 `+prefix <new prefix>` - Change bot prefix for the current Room. <br />
 `+setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room.
 
+## Commands - `economy`
 
+...Under Development
 
