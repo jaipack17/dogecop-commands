@@ -1,6 +1,6 @@
-# DogeCop Command List - v0.0.5
+# DogeCop Command List - v0.0.6
 
-Command list for dogehouse. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
+Command list for DogeCop. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
 
 ![ReadMeImage](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0e/0e0fe01692ebc7c4fcdef9750072c8974b2bf7a8_full.jpg) 
 
@@ -35,6 +35,7 @@ Prefix can be Customized
 `+inventory` - Your Inventory (Coming Soon)<br/>
 `+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! <br/>
 `+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!<br/>
+`+shop` - The DogeCop shop that has items for you to use for certain commands!<br/>
 <br/>
 ...Under Development
 
