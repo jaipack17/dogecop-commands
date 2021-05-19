@@ -1,4 +1,4 @@
-# DogeCop Command List - v0.0.5
+# DogeCop Shop
 
 Shop for DogeCop. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
 
