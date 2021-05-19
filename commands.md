@@ -21,6 +21,7 @@ Prefix can be Customized
 `+roomname` - Name of the Room<br/>
 `+myid` - Your User ID<br/>
 `+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`<br/>
+`+party` - Start an emoji party 😎<br/>
 
 ## Commands - `config`
 
