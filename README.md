@@ -33,7 +33,7 @@ Prefix can be Customized
 `+rank` - Your Rank as a Dogehouse Cop<br/>
 `+daily` - Daily reward of DogeCoins<br/>
 `+inventory` - Your Inventory (Coming Soon)<br/>
-`+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! (Coming Soon)<br/>
+`+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! <br/>
 `+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!<br/>
 <br/>
 ...Under Development
