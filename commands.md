@@ -36,7 +36,7 @@ Prefix can be Customized
 `+patrol` - Patrol for 30 Minutes to earn DogeCoin and Rank up! <br/>
 `+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!<br/>
 `+shop` - The DogeCop shop that has items for you to use for certain commands!<br/>
-`+buy <ItemID>` - Buy an item from the (DogeCop Shop)[https://github.com/jaipack17/dogecop-commands/blob/main/shop.md]! Example: +buy 2<br/>
+`+buy <ItemID>` - Buy an item from the [DogeCop Shop](https://github.com/jaipack17/dogecop-commands/blob/main/shop.md). Example: +buy 2<br/>
 
 ...Under Development
 
