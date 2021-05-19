@@ -19,8 +19,8 @@ Prefix can be Customized
 `+ownerID` - ID of the current Room Owner<br/>
 `+invite` - Invite Link of the current Room<br/>
 `+roomname` - Name of the Room<br/>
-`+myid` - Your User ID
-`+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`
+`+myid` - Your User ID<br/>
+`+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`<br/>
 
 ## Commands - `config`
 
