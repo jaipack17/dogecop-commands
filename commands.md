@@ -20,6 +20,7 @@ Prefix can be Customized
 `+invite` - Invite Link of the current Room<br/>
 `+roomname` - Name of the Room<br/>
 `+myid` - Your User ID
+`+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`
 
 ## Commands - `config`
 
