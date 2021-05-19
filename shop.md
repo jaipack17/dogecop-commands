@@ -6,7 +6,7 @@ Shop for DogeCop. All commands are to be used in **Room Chat**. The Best Economy
 
 ## Shop
 
-### Handcuff - `1500 DogeCoin`
+### Handcuffs - `1500 DogeCoin`
 #### ID - `1`
 
 ### Tazor - `7500 DogeCoin`
