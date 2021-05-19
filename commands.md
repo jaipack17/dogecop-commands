@@ -40,6 +40,7 @@ Prefix can be Customized
 `+buy <ItemID>` - Buy an item from the [DogeCop Shop](https://github.com/jaipack17/dogecop-commands/blob/main/shop.md). Example: +buy 2<br/>
 `+stats` - Your statistics as a DogeHouse Cop<br/>
 `+party` - Start an emoji party and get DogeCoin as a reward 😎<br/>
+`+owo <message>` - Convert text to owo language!
 
 ...Under Development
 
