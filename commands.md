@@ -1,4 +1,4 @@
-# DogeCop Command List - v0.0.7
+# DogeCop Command List - v0.0.8
 
 Command list for DogeCop. All commands are to be used in **Room Chat**. The Best Economy Bot You will find on DogeHouse!
 
@@ -40,7 +40,10 @@ Prefix can be Customized
 `+buy <ItemID>` - Buy an item from the [DogeCop Shop](https://github.com/jaipack17/dogecop-commands/blob/main/shop.md). Example: +buy 2<br/>
 `+stats` - Your statistics as a DogeHouse Cop<br/>
 `+party` - Start an emoji party and get DogeCoin as a reward 😎<br/>
-`+owo <message>` - Convert text to owo language!
+
+## Commands - `fun`
+
+`+owo <message>` - Convert text to owo language!<br/>
 
 ...Under Development
 
