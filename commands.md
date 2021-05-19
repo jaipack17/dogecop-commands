@@ -20,13 +20,16 @@ Prefix can be Customized
 `+invite` - Invite Link of the current Room<br/>
 `+roomname` - Name of the Room<br/>
 `+myid` - Your User ID<br/>
-`+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`<br/>
+
+...more soon
 
 ## Commands - `config`
 
 `+join <roomID>` - Make the bot join your room!<br/>
 `+prefix <new prefix>` - Change bot prefix for the current Room. <br />
-`+setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room. (Coming Soon) (Set to Default)
+`+setWelcomeMessage <message>` - Greet new people with a custom message when they join your Room. (Coming Soon) (Set to Default)<br/>
+
+...more soon
 
 ## Commands - `economy`
 
@@ -41,11 +44,15 @@ Prefix can be Customized
 `+stats` - Your statistics as a DogeHouse Cop<br/>
 `+party` - Start an emoji party and get DogeCoin as a reward 😎<br/>
 
+...more soon
+
+
 ## Commands - `fun`
 
 `+owo <message>` - Convert text to owo language!<br/>
+`+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`<br/>
 
-...Under Development
+...more soon
 
 <br/>
 <br/>
