@@ -21,7 +21,6 @@ Prefix can be Customized
 `+roomname` - Name of the Room<br/>
 `+myid` - Your User ID<br/>
 `+8ball <question>` - Ask DogeCop anything you feel like! Example: `+8ball Is the earth flat?`<br/>
-`+party` - Start an emoji party 😎<br/>
 
 ## Commands - `config`
 
@@ -40,6 +39,7 @@ Prefix can be Customized
 `+shop` - The DogeCop shop that has items for you to use for certain commands!<br/>
 `+buy <ItemID>` - Buy an item from the [DogeCop Shop](https://github.com/jaipack17/dogecop-commands/blob/main/shop.md). Example: +buy 2<br/>
 `+stats` - Your statistics as a DogeHouse Cop<br/>
+`+party` - Start an emoji party and get DogeCoin as a reward 😎<br/>
 
 ...Under Development
 
