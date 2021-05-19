@@ -37,6 +37,7 @@ Prefix can be Customized
 `+bet <amount>` - Bet some DogeCoin and either lose it or win double the amount you bet!<br/>
 `+shop` - The DogeCop shop that has items for you to use for certain commands!<br/>
 `+buy <ItemID>` - Buy an item from the [DogeCop Shop](https://github.com/jaipack17/dogecop-commands/blob/main/shop.md). Example: +buy 2<br/>
+`+stats` - Your statistics as a DogeHouse Cop<br/>
 
 ...Under Development
 
