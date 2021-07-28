@@ -56,6 +56,4 @@ Prefix can be Customized
 
 <br/>
 <br/>
-<a href="https://dogehouse.tv/u/dogebeatz">
-  <img align="left" alt="dogebeatz | dogehouse" width="100px" src="https://raw.githubusercontent.com/benawad/dogehouse/staging/.redesign-assets/dogehouse_logo.svg" />
-</a> 
+
